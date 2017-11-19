@@ -1,0 +1,1 @@
+{"jobID":"de1e1f57-2a84-dc52-0c89-398464ecc59d","spec":{"type":"policy","cause":{"Message":"","User":"itsmesingh.avneet \u003citsmesingh.avneet@gmail.com\u003e"},"spec":{"sock-shop:deployment/front-end":{"add":null,"remove":{"automated":"true"}}}},"result":null}
